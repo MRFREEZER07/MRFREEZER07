@@ -75,9 +75,9 @@ I-am-MRFREEZER07@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Karthik's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=MRFREEZER07&show_icons=true&theme=algolia)              | 
+| ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=MRFREEZER07&show_icons=true&theme=algolia)              | 
  
 
 
